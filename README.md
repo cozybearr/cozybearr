@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/website?label=Nauqh.github.io&style=for-the-badge&up_message=Join&url=https%3A%2F%2Fnauqh.github.io)](https://cozybearr.github.io)
 [![Twitter Follow](https://img.shields.io/discord/872141661038313503?color=blue&label=%F0%9F%93%BADiscord&style=for-the-badge)](https://discord.gg/pv3jASXKMY)
-![Reddit](https://img.shields.io/reddit/subreddit-subscribers/DataScience?style=for-the-badge)
+![Reddit](https://img.shields.io/reddit/subreddit-subscribers/AccessCyber?style=for-the-badge)
 
 ## I'm `striving to be` a Security Analyst, Software Engineer!
 
