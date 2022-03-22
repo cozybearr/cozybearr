@@ -2,18 +2,16 @@
 <br>
 
 ![Visitors](https://komarev.com/ghpvc/?username=cozybearr&color=0ddfff&style=for-the-badge&label=PROFILE+VIEWS)
-
-[![Website](https://img.shields.io/website?label=Nauqh.github.io&style=for-the-badge&up_message=Join&url=https%3A%2F%2Fnauqh.github.io)](https://cozybearr.github.io)
 [![Twitter Follow](https://img.shields.io/discord/872141661038313503?color=blue&label=%F0%9F%93%BADiscord&style=for-the-badge)](https://discord.gg/pv3jASXKMY)
 ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/AccessCyber?style=for-the-badge)
 
-## I'm `striving to be` a Security Analyst, Software Engineer!
+## I'm `a future` InfoSec Analyst, Software Engineer!
 
-- 🔭 I just launched my first project: [Password Manager][website]!
-- :computer: I’m currently learning Data science 📑
-- 👯 I’m looking to collaborate with other content creators
-- 🚀 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love soccer and basketball
+- 💫 I just launched my first project: [Password Manager][website]!
+- :computer: I’m currently learning Software Development 📑
+- 📌 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Master graph and computation theory
+- 📦 Fun fact: I love soccer and basketball
 
 ### Top Technologies
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -37,18 +35,18 @@
 
 ---
 
-### 📚 My current playlist
+### 📃 My current playlist
 
 <!-- BLOG-POST-LIST:START -->
 
-- [DeepNeuron x AWS - Deep Learning Workshop](https://www.deepneuron.org/industry-blogs/2021/9/11/deepneuron-x-aws-deep-learning-workshop)
-- [PyTorch Models and CNN Theory](https://www.deepneuron.org/dl-blogs/2021/9/8/pytorch-models-and-cnn-theory-part-1)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
-- [Writing An Hadoop MapReduce Program In Python](https://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/)
+- [Create an Advanced Keylogger in Python](https://youtu.be/25um032xgrw)
+- [An Encoding Primer](https://danielmiessler.com/study/encoding/)
+- [Consciousness is a Movie Screen Without an Audience, Theater, or Universe](https://danielmiessler.com/blog/consciousness-movie-screen-without-audience-theater-universe/)
+- [Password cracking with Kali Linux and HashCatn](https://youtu.be/z4_oqTZJqCo)
+- [Know Your Life Metrics](https://danielmiessler.com/blog/know-your-life-metrics/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.deepneuron.org/)
+➡️ [more blog posts...](https://danielmiessler.com/)
 
 ---
 
@@ -68,9 +66,9 @@
 
 </details>
 
-[website]: https://nauqh.github.io
-[twitter]: https://www.instagram.com/nauqh_/
+[website]: https://www.facebook.com/profile.php?id=100061953525148
+[twitter]: https://nauqh.github.io/error.html
 [youtube]: https://www.youtube.com/watch?v=PY8f1Z3nARo
-[instagram]: https://www.instagram.com/nauqh_/
-[linkedin]: https://www.instagram.com/nauqh_/
+[instagram]: https://www.instagram.com/quanbuii_1101/
+[linkedin]: https://nauqh.github.io/error.html
 [error]: https://nauqh.github.io/error.html
