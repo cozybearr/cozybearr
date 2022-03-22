@@ -7,7 +7,7 @@
 
 ## I'm `a future` InfoSec Analyst, Software Engineer!
 
-- 💫 I just launched my first project: [Password Manager][website]!
+- 💫 I just launched my first project: [Password Manager](https://github.com/cozybearr/Passlock)!
 - :computer: I’m currently learning Software Development 📑
 - 📌 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Master graph and computation theory
