@@ -1,19 +1,19 @@
 ## Hi there, I'm Minh Quan - aka [Cozybearr][website] <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <br>
 
-![Visitors](https://komarev.com/ghpvc/?username=nauqh&color=0ddfff&style=flat-square&label=PROFILE+VIEWS)
+![Visitors](https://komarev.com/ghpvc/?username=cozybearr&color=0ddfff&style=flat-square&label=PROFILE+VIEWS)
 
-[![Website](https://img.shields.io/website?label=Nauqh.github.io&style=for-the-badge&up_message=Join&url=https%3A%2F%2Fnauqh.github.io)](https://nauqh.github.io)
+[![Website](https://img.shields.io/website?label=Nauqh.github.io&style=for-the-badge&up_message=Join&url=https%3A%2F%2Fnauqh.github.io)](https://cozybearr.github.io)
 [![Twitter Follow](https://img.shields.io/discord/872141661038313503?color=blue&label=%F0%9F%93%BADiscord&style=for-the-badge)](https://discord.gg/pv3jASXKMY)
 ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/DataScience?style=for-the-badge)
 
-## I'm `striving to be` a Data Engineer, Web Developer!
+## I'm `striving to be` a Security Analyst, Software Engineer!
 
-- 🔭 I just launched my first website: [Online Portfolio][website]!
+- 🔭 I just launched my first project: [Password Manager][website]!
 - :computer: I’m currently learning Data science 📑
 - 👯 I’m looking to collaborate with other content creators
 - 🚀 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love movies and music
+- ⚡ Fun fact: I love soccer and basketball
 
 ### Top Technologies
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -56,7 +56,7 @@
   <summary>:computer: Languages</summary>
   <br/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nauqh&layout=compact&theme=yeblu)](https://github.com/nauqh)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cozybearr&layout=compact&theme=yeblu)](https://github.com/cozybearr)
 
 </details>
 
@@ -64,7 +64,7 @@
   <summary>:computer: GitHub Stats</summary>
   <br/>
 
-  [![Nauqh GitHub stats](https://github-readme-stats.vercel.app/api?username=nauqh&show_icons=true&theme=algolia)](https://github.com/nauqh)
+  [![Nauqh GitHub stats](https://github-readme-stats.vercel.app/api?username=cozybearr&show_icons=true&theme=algolia)](https://github.com/cozybearr)
 
 </details>
 
