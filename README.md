@@ -10,7 +10,7 @@
 - 💫 I just launched my first project: [Password Manager](https://github.com/cozybearr/Passlock)!
 - :computer: I’m currently learning Software Development 📑
 - 📌 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Master graph and computation theory
+- 🥅 2022 Goals: Prepare for my upcoming internship
 - 📦 Fun fact: I love soccer and basketball
 
 ### Top Technologies
@@ -41,7 +41,7 @@
 <!-- BLOG-POST-LIST:START -->
 
 - [Create an Advanced Keylogger in Python](https://youtu.be/25um032xgrw)
-- [How to Be Correct About Everything All the Time](https://www.youtube.com/watch?v=DJiGuFCzaFo))
+- [How to Be Correct About Everything All the Time](https://www.youtube.com/watch?v=DJiGuFCzaFo)
 - [Consciousness is a Movie Screen Without an Audience, Theater, or Universe](https://danielmiessler.com/blog/consciousness-movie-screen-without-audience-theater-universe/)
 - [Password cracking with Kali Linux and HashCatn](https://youtu.be/z4_oqTZJqCo)
 - [Know Your Life Metrics](https://danielmiessler.com/blog/know-your-life-metrics/)
