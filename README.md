@@ -28,8 +28,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][error]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][error]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -69,8 +68,7 @@
 </details>
 
 [website]: https://www.facebook.com/profile.php?id=100061953525148
-[twitter]: https://nauqh.github.io/error.html
 [youtube]: https://www.youtube.com/watch?v=PY8f1Z3nARo
 [instagram]: https://www.instagram.com/quanbuii_1101/
-[linkedin]: https://nauqh.github.io/error.html
-[error]: https://nauqh.github.io/error.html
+[linkedin]: https://www.linkedin.com/in/qu%E1%BB%91c-minh-qu%C3%A2n-b%C3%B9i-9587a7235/
+
