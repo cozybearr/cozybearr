@@ -39,10 +39,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Create an Advanced Keylogger in Python](https://youtu.be/25um032xgrw)
 - [How to Be Correct About Everything All the Time](https://www.youtube.com/watch?v=DJiGuFCzaFo)
-- [Consciousness is a Movie Screen Without an Audience, Theater, or Universe](https://danielmiessler.com/blog/consciousness-movie-screen-without-audience-theater-universe/)
-- [Password cracking with Kali Linux and HashCatn](https://youtu.be/z4_oqTZJqCo)
 - [Know Your Life Metrics](https://danielmiessler.com/blog/know-your-life-metrics/)
 - [Instructions for a Happy Life](https://www.youtube.com/watch?v=A4pR--qJTdU)
 <!-- BLOG-POST-LIST:END -->
