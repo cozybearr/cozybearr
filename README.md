@@ -5,9 +5,8 @@
 [![Twitter Follow](https://img.shields.io/discord/872141661038313503?color=blue&label=%F0%9F%93%BADiscord&style=for-the-badge)](https://discord.gg/pv3jASXKMY)
 ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/AccessCyber?style=for-the-badge)
 
-## I'm `a future` Web Developer, Software Engineer!
+## I'm `a future` Fullstack Web Developer, Software Engineer!
 
-- 💫 I just launched my first project: [Password Manager](https://github.com/cozybearr/Passlock)!
 - :computer: I’m currently learning Software Development 📑
 - 🥅 2022 Goals: Prepare for my upcoming internship
 - 📦 Fun fact: I love soccer and basketball
