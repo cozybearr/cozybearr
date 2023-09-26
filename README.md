@@ -9,19 +9,19 @@
 
 - 💫 I just launched my first project: [Password Manager](https://github.com/cozybearr/Passlock)!
 - :computer: I’m currently learning Software Development 📑
-- 📌 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Prepare for my upcoming internship
 - 📦 Fun fact: I love soccer and basketball
 
 ### Top Technologies
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img align="left" alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-<img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+<img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img align="left" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5%20-ff0000.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="left" alt="C++"  src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img align="left" alt="Java"  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img align="left" alt="Spring"  src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+
 
 
 ### Connect with me:
