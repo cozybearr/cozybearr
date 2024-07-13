@@ -7,7 +7,7 @@
 ## I'm `a future` Fullstack Web Developer, Software Engineer!
 
 - :computer: I’m currently learning Software Development 📑
-- 🥅 2024 Goals: Prepare for my upcoming internship
+- 🥅 2022 Goals: Prepare for my upcoming internship
 - 📦 Fun fact: I love soccer and basketball
 
 ### Top Technologies
